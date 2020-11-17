@@ -18,7 +18,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/asmodeus55/ASMODEUS666
 > cd ASMODEUS666
-> npm i -g cwebp && npm i -g ytdl
+> npm i -g cwebp
+> npm i -g ytdl
 > npm i && npm i got
 > bash install.sh
 > node index.js
@@ -54,4 +55,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 085748931494 ADITYA DP
